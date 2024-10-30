@@ -8,7 +8,7 @@
 
 👨‍💻 &nbsp;I am currently working at GOIAR in Mendoza, Argentina as a Mobile Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently studying Systems Engineering at Universidad Tecnologica Nacional (UTN). .\
+🎓 &nbsp;I am currently studying Systems Engineering at Universidad Tecnologica Nacional (UTN).\
 🌱 &nbsp;I am on my way to learn more about React.js, React Native y Next.js.\
 ✍️ &nbsp;In my spare time, I dedicate my time to programming courses and training.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
